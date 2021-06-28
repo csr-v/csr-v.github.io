@@ -1,3 +1,8 @@
+To create a basic website: 
+- [ ] Add a theme
+- [ ] Add an index.md file with "Hello World" on it
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/csr-v/csr-v.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
